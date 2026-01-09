@@ -1,7 +1,5 @@
 <h1>Hi , I'm Anang Dze! </h1>
 
-<a href="https://www.linkedin.com/in/anang-dze"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 Cybersecurity Analyst with over three years of experience supporting Security Operation Center (SOC) functions and IT Support environments, including  Service Desk and Help Desk operations.
 Experienced in security monitoring, alert triage, vulnerability assessment, incident response, and user support. Strong background in troubleshooting Windows, Andriod and IOS systems, managing access contros, and maintaining secure, reliable IT services. Committed to continuos learning and improving organizational security posture through hands-on technical work and operational best practices.
 
@@ -51,3 +49,7 @@ To leverage 3+ years of experience in IT Support, SOC operations and Service/Hel
 
 <h2>👨‍🎓Education</h2>
 B.S. in Information Technology
+
+### Connect With Me
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbs;[My Profile]([https://wwww.limk](https://www.linkedin.com/in/anang-dze))
+
