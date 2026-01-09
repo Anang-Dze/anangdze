@@ -43,7 +43,7 @@ To leverage 3+ years of experience in IT Support, SOC operations and Service/Hel
 
 - [CompTIA Security+](Cert link)
   
-- [CompTIA A+ Core 2](Cert link)
+- [CompTIA A+ Core 2](https://github.com/Anang-Dze/CompTIA-A-Core-2/blob/main/CompTIA%20A%2B.png)
 
 - [CISCO Computer Hardware Basics](cert link)
   
