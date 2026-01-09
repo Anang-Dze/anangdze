@@ -41,7 +41,7 @@ To leverage 3+ years of experience in IT Support, SOC operations and Service/Hel
   
 <h2>📃Certifications</h2>
 
-- [CompTIA Security+](Cert link)
+- [CompTIA Security+](https://github.com/Anang-Dze/CompTIA-Security-plus/blob/main/CompTIA%20Certificate%20~Jehoshaphat.pdf)
   
 - [CompTIA A+ Core 2](https://github.com/Anang-Dze/CompTIA-A-Core-2/blob/main/CompTIA%20A%2B.png)
 
