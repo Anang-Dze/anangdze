@@ -5,7 +5,7 @@ Experienced in security monitoring, alert triage, vulnerability assessment, inci
 
 <h2>Objective</h2>
 
-To leverage 3+ years of experience in IT Support, SOC operations and Service/Help Desk, to contribute to an organization's security and IT operations team. Seeking a role where skills in hardware set-up and maintenance,software installation and basic troubleshooting,network troubleshooting,security support,security monitoring,incident response, vulnerability management,and end-user support can be applied to enhance system realibility,threat detection, and overall security resilience.
+To leverage 4+ years of experience in IT Support, SOC operations and Service/Help Desk, to contribute to an organization's security and IT operations team. Seeking a role where skills in hardware set-up and maintenance,software installation and basic troubleshooting,network troubleshooting,security support,security monitoring,incident response, vulnerability management,and end-user support can be applied to enhance system realibility,threat detection, and overall security resilience.
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
@@ -48,7 +48,19 @@ To leverage 3+ years of experience in IT Support, SOC operations and Service/Hel
 - [CISCO Operating Systems Basics](https://github.com/Anang-Dze/Operating-Systems-Basics/blob/main/Operating%20Sysem%20Basic.jpg)
 
 <h2>👨‍🎓Education</h2>
-B.S. in Information Technology
+Bachelor's in Information Technology
+
+Maxwell Technology Institue - Douala, 2022
+
+<h2>CyberSecurity Training</h2>
+
+- Technical Institute of America (TIA), 2023
+
+- Dion Trainig, 2025
+  
+- CISCO Networking Academy
+
+
 
 ### Connect With Me
 
