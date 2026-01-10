@@ -58,7 +58,7 @@ Maxwell Technology Institue - Douala, 2022
 
 - Dion Trainig, 2025
   
-- CISCO Networking Academy
+- CISCO Networking Academy, 2025
 
 
 
