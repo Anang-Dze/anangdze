@@ -88,7 +88,7 @@ Focused on IT fundamentals, networking, systems administration, and security pri
 
 ## Attestation of Work
 
-- [PEFSCOM SYSTEM](https://github.com/Anang-Dze/PEFSCOM-SYSTEM-Attestation-of-Work)
+- [PEFSCOM SYSTEM](https://github.com/Anang-Dze/PEFSCOM-SYSTEM-Attestation-of-Work/blob/main/Attestation_of_Work%20PEFSCOM.pdf)
 
 - [Maxwell Technology]()
 
