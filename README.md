@@ -86,6 +86,11 @@ Focused on IT fundamentals, networking, systems administration, and security pri
   
 - [CISCO Networking Academy](https://www.netacad.com/) - Completed December 2025
 
+## Attestation of Work
+
+- [PEFSCOM SYSTEM]()
+
+- [Maxwell Technology]()
 
 
 ### Connect With Me
