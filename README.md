@@ -1,7 +1,7 @@
 <h1>Hi , I'm Anang Dze! </h1>
 
 Cybersecurity Analyst with over four years of experience in IT Technician/Support environments, Help Desk and Service Desk, including Security Operation Center (SOC) functions.
-Experienced in security monitoring, alert triage, vulnerability assessment, incident response, and user support. Strong background in troubleshooting Windows, Andriod and IOS systems, managing access contros, and maintaining secure, reliable IT services. Committed to continuos learning and improving organizational security posture through hands-on technical work and operational best practices.
+Experienced in security monitoring, alert triage, vulnerability assessment, incident response, and user support. Strong background in troubleshooting Windows, Andriod and IOS systems, managing access control, and maintaining secure, reliable IT services. Committed to continuos learning and improving organizational security posture through hands-on technical work and operational best practices.
 
 <h2>Objective</h2>
 
