@@ -72,7 +72,7 @@ To leverage 4+ years of experience in IT Support, SOC operations and Service/Hel
 
  **Bachelor's in Information Technology**
 
-Maxwell Technology Institue - Douala, Cameroon
+St. Monica University, Cameroon
 
 Graduated: 2022
 
