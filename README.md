@@ -51,7 +51,7 @@ To leverage 4+ years of experience in IT Support, SOC operations and Service/Hel
    - **Customer service and communication**: Explaining issues clearly to non-technical users
    - **Patience and empathy**: Handling frustrated users
    - **Problem-solving and prioritization**: Managing multiple tickets efficiently
-   - **Attention to details and critical thinking**: Distinguish fals positive from real threats
+   - **Attention to details and critical thinking**: Distinguish false positive from real threats
    - **Report**: Documenting findings and reporting them
   
 <h2>📃Certifications</h2>
